@@ -1,0 +1,27 @@
+_repo: The-Southern-Literary-Messenger-Vol-I-No-6-February-1835_54451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Heath, James E.
+    gutenberg_agent_id: '46407'
+    url: http://www.gutenberg.org/2009/agents/46407
+description: ''
+gutenberg_issued: '2017-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- 19th century -- Periodicals'
+- !lcc 'AP'
+- GITenberg
+title: The Southern Literary Messenger, Vol. I., No. 6, February, 1835
+url: http://www.gutenberg.org/ebooks/54451
